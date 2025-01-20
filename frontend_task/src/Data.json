@@ -1,0 +1,17 @@
+[
+  {
+    "id" : 1,
+    "name" : "Post 1",
+    "image" : "PostsPhotos/photo1.jpeg"
+  },
+  {
+    "id" : 2,
+    "name" : "Post 2",
+    "image" : "PostsPhotos/photo2.jpg"
+  },
+  {
+    "id" : 3,
+    "name" : "Post 3",
+    "image" : "PostsPhotos/photo3.jpg"
+  }
+]
